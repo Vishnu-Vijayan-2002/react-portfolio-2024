@@ -1,0 +1,24 @@
+.about{
+    background-image: url('https://wallpaperbat.com/img/832214-staffing-and-recruitment-industry-app-development.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position:top ;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+    margin-bottom: 100px; 
+}
+.image-container{
+    width: 600px;
+    height: 400px;
+    margin-left: 100px;
+}
+.about-content{
+    height: 400px;
+    background-color: black;
+    margin-top: 600px;
+}
+.content{
+    padding-top: 20%;
+    padding-bottom: 10%;
+}

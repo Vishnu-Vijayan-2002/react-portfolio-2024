@@ -1,0 +1,16 @@
+.contact-container{
+    width: 800px;
+    height: 700px;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.contact{
+    background-image: url('https://wallpaperbat.com/img/832214-staffing-and-recruitment-industry-app-development.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position:top ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed; 
+}
